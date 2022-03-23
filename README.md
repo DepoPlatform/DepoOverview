@@ -41,7 +41,9 @@ With the invited testnet launch of the Depo Blockchain and the continued refinem
 Through Depo Blockchain, assets and liquidity can be accessed across multiple blockchains. While Depo Finance offers users an all-in-one and friendly user experience in access DeFi services within the Ethereum and Cosmos ecosystems and beyond.
 
 Medium Blog: https://depoplatform.medium.com/
+
 Twitter: https://twitter.com/depoplatform
+
 Telegram: https://t.me/depoplatform
 
 
