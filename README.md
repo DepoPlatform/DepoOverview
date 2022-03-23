@@ -7,6 +7,7 @@ The Depo Blockchain is a Cosmos SDK blockchain, and is interoperable with blockc
 https://depoplatform.medium.com/depo-platform-overview-of-depo-blockchain-and-depo-finance-6385d6606e55
 
 Depo Blockchain:  https://depos.network
+
 Depo Finance:  https://depo.finance
 
 # Depo Blockchain — Sovereign Cosmos/IBC blockchain
