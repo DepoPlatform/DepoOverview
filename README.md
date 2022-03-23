@@ -1,6 +1,6 @@
 # Depo Platform — Overview of Depo Blockchain and Depo Finance
 
-(Note: This repository is under active development)
+*(Note: This repository is under active development)*
 
 Depo Platform consists of: 1) Depo Blockchain and 2) Depo Finance
 
