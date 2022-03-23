@@ -4,7 +4,7 @@ Depo Platform consists of: 1) Depo Blockchain and 2) Depo Finance
 
 The Depo Blockchain is a Cosmos SDK blockchain, and is interoperable with blockchains including Terra, Crypto.com, Binance Chain, Osmosis, Secret Network, and 30+ other chains, plus Ethereum and other EVM compatible blockchains.
 
-# Depo Blockchain — Cosmos IBC ecosystem
+# Depo Blockchain — Sovereign Cosmos/IBC blockchain
 
 With the launch of Depo Blockchain, the Depo Platform consists of a full stack of applications, from a Cosmos-based layer 1 blockchain (Depo Blockchain) to a user-facing all-in-one DeFi/NFT platform (Depo Finance).
 Depo Blockchain
