@@ -4,7 +4,7 @@
 
 Depo Platform consists of: 1) Depo Secure privacy preserving smart contract system 2) Depo Blockchain and 3) Depo Finance 
 
-## Depo Secure 
+# Depo Secure 
 https://github.com/DepoPlatform/DepoSecure  
 Keep storage variable data private, accessible only to authorized parties, while preserving immutability, decentralization, and fairness of blockchain smart contracts.
 
