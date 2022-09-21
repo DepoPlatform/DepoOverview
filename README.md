@@ -49,8 +49,11 @@ Twitter: https://twitter.com/depoplatform
 
 Telegram: https://t.me/depoplatform
 
-
 Depo Blockchain Paper:  https://github.com/DepoPlatform/DeFi-Platform/blob/main/High-levelOverviewDepoBlockchain.pdf
+
 Depo Finance Paper:  https://github.com/DepoPlatform/DeFi-Platform/blob/main/DepoFinanceLitepaper.pdf
+
 Depo Platform [Introduction](https://depoplatform.medium.com/depo-platform-overview-of-depo-blockchain-and-depo-finance-6385d6606e55)
+
 Depo Finance:  https://depo.finance
+
