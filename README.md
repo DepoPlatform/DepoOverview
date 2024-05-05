@@ -36,7 +36,7 @@ Tiered Risk Management: Depo Finance offers users pools with different risk prof
 
 Secondary Liquidity and Derivatives Trading for Liquid Staking Assets: many public blockchains, such as Ethereum 2.0 offer users staking opportunities as part of the POS consensus mechanism. Many of these POS staking programs require large amounts of the underlying crypto assets to qualify and require an extensive period of time for staking. Users may not withdraw from such staking programs at will at any time. Depo Finance offers users POS staking pool services that allow users to easily join staking pools with small amounts of crypto assets and withdraw from POS staking pools at any time through market adjustment mechanisms. Users gain secondary liquidity through Depo Finance’s POS staking services.
 
-# Depo Platform — the ecosystem
+# Depo Platform — Ecosystem
 
 With the invited testnet launch of the Depo Blockchain and the continued refinement of Depo Finance, the Depo Platform becomes a full-stack ecosystem of blockchain foundational layer and user-facing decentralized DeFi applications.
 
