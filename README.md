@@ -9,7 +9,7 @@ https://github.com/DepoPlatform/DepoSecure
 Keep storage variable data private, accessible only to authorized parties, while preserving immutability, decentralization, and fairness of blockchain smart contracts.
 
 
-The Depo Blockchain is a Cosmos SDK blockchain, and is interoperable with blockchains including Terra, Crypto.com, Binance Chain, Osmosis, Secret Network, and 30+ other chains, plus Ethereum and other EVM compatible blockchains.
+Zero Knowledge Homomorphic based encyrption system to keep state variables private for onchain smart contracts. Fully compatible with EVM and Solidity stack. Easy implemenation and integration with existing smart contract systems with annotation based development process. 
 
 
 # Depo Blockchain — Layer 2/3 Rollup Blockchain optimized for Liquid Staking Derivatives
