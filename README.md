@@ -12,15 +12,15 @@ Keep storage variable data private, accessible only to authorized parties, while
 The Depo Blockchain is a Cosmos SDK blockchain, and is interoperable with blockchains including Terra, Crypto.com, Binance Chain, Osmosis, Secret Network, and 30+ other chains, plus Ethereum and other EVM compatible blockchains.
 
 
-# Depo Blockchain — Sovereign Cosmos/IBC blockchain
+# Depo Blockchain — Layer 2/3 Rollup Blockchain optimized for Liquid Staking Derivatives
 
-With the launch of Depo Blockchain, the Depo Platform consists of a full stack of applications, from a Cosmos-based layer 1 blockchain (Depo Blockchain) to a user-facing all-in-one DeFi/NFT platform (Depo Finance).
+With the launch of Depo Blockchain, the Depo Platform consists of a full stack of applications, from a sovereign layer2/3 EVM equivalent rollup blockchain (Depo Blockchain) to a user-facing all-in-one DeFi/NFT platform (Depo Finance).
 Depo Blockchain
 
-Depo Blockchain is a layer 1 sovereign blockchain with special features tailored for Decentralized Finance. The Depo Blockchain is built on Cosmos SDK and Ethermint. Thus, Depo Blockchain is able to operate both as a Cosmos hub and an EVM parallel chain.
+Depo Blockchain is a layer 2/3 sovereign rollup blockchain with special features tailored for Decentralized Finance of liquid staking assets. The Depo Blockchain is built on rollup stack with IBC cross blockchain messaging functionality. Thus, Depo Blockchain is able to operate both as a Cosmos hub and an EVM equivalent blockchain.
 DeFi and NFT applications and money lego data types can be built on Depo Blockchain to access cross chain leverage and liquidity either through IBC or Gravity Bridge. The Depo Blockchain facilitates interoperability through Inter Blockchain Communication module with other blockchains within the Cosmos ecosystem. For Ethereum and other blockchains with probabilistic finality, Depo Blockchain utilizes Gravity Bridge to offer interoperability.
 
-Through the utilization of Ethermint module, Depo Blockchain is able to effectively function as a Ethereum/EVM parallel chain with full interoperability of Solidity smart contracts. Depo Blockchain also offers tremendous advantages to DeFi and NFT applications with much lower transactions fee and much faster finality.
+Depo Blockchain is able to effectively function as a Ethereum/EVM parallel chain with full interoperability of Solidity smart contracts. Depo Blockchain also offers tremendous advantages to DeFi and NFT applications with much lower transactions fee and much faster finality.
 
 The Depo Blockchain is the bedrock of cross chain interoperability to Depo users. It also offers great value to DeFi and NFT developers and applications with its lower transactions, higher throughput, and faster finality.
 
@@ -34,7 +34,7 @@ Cross-chain DeFi and NFT services on one user interface: this allows users to ca
 
 Tiered Risk Management: Depo Finance offers users pools with different risk profiles for the same underlying transactions. Users may choose to invest in the same underlying protocol and services in principal protection pools or high yielding pools.
 
-Secondary Liquidity for Staked Assets: many public blockchains, such as Ethereum 2.0 offer users staking opportunities as part of the POS consensus mechanism. Many of these POS staking programs require large amounts of the underlying crypto assets to qualify and require an extensive period of time for staking. Users may not withdraw from such staking programs at will at any time. Depo Finance offers users POS staking pool services that allow users to easily join staking pools with small amounts of crypto assets and withdraw from POS staking pools at any time through market adjustment mechanisms. Users gain secondary liquidity through Depo Finance’s POS staking services.
+Secondary Liquidity and Derivatives Trading for Liquid Staking Assets: many public blockchains, such as Ethereum 2.0 offer users staking opportunities as part of the POS consensus mechanism. Many of these POS staking programs require large amounts of the underlying crypto assets to qualify and require an extensive period of time for staking. Users may not withdraw from such staking programs at will at any time. Depo Finance offers users POS staking pool services that allow users to easily join staking pools with small amounts of crypto assets and withdraw from POS staking pools at any time through market adjustment mechanisms. Users gain secondary liquidity through Depo Finance’s POS staking services.
 
 # Depo Platform — the ecosystem
 
@@ -42,18 +42,9 @@ With the invited testnet launch of the Depo Blockchain and the continued refinem
 
 Through Depo Blockchain, assets and liquidity can be accessed across multiple blockchains. While Depo Finance offers users an all-in-one and friendly user experience in access DeFi services within the Ethereum and Cosmos ecosystems and beyond.
 
-
-Medium Blog: https://depoplatform.medium.com/
-
 Twitter: https://twitter.com/depoplatform
 
 Telegram: https://t.me/depoplatform
 
-Depo Blockchain Paper:  https://github.com/DepoPlatform/DeFi-Platform/blob/main/High-levelOverviewDepoBlockchain.pdf
-
-Depo Finance Paper:  https://github.com/DepoPlatform/DeFi-Platform/blob/main/DepoFinanceLitepaper.pdf
-
-Depo Platform [Introduction](https://depoplatform.medium.com/depo-platform-overview-of-depo-blockchain-and-depo-finance-6385d6606e55)
-
-Depo Finance:  https://depo.finance
+Depo Platform Whitepaper:  https://github.com/DepoPlatform/DeFi-Platform/blob/main/High-levelOverviewDepoBlockchain.pdf
 
